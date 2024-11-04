@@ -1,16 +1,8 @@
 # flutter_chat_bot
 
-A new Flutter project.
+A new Flutter chat bot project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is a starting point for a Flutter_Chat_Bot
+<img width="368" alt="image" src="https://github.com/user-attachments/assets/df4b5d8d-aaa1-4440-bd70-1ef19c8206b8">
