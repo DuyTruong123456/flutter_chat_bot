@@ -1,0 +1,35 @@
+# Flutter/Dart specific
+.dart_tool/
+.packages
+build/
+pubspec.lock
+
+# iOS specific
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework
+ios/Runner.xcworkspace/
+ios/Runner.xcuserdata/
+ios/Flutter/.last_build_id
+
+# Android specific
+android/.gradle/
+android/app/build/
+android/captures/
+
+# VS Code specific
+.vscode/
+
+# IntelliJ specific
+.idea/
+
+# Miscellaneous
+.DS_Store
+*.log
+*.lock
+*.tmp
+ 
+# Ignore environment variable files
+.env
